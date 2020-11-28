@@ -5,7 +5,7 @@ An application used to preview markdown text to side, built with React, JavaScri
 
 ## Project Screen Shot(s)
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![ PRETEND SCREEN SHOT IS HERE ](https://github.com/ayush52056/React-markdown-preview/blob/master/src/reactmarkdownss.PNG)
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 

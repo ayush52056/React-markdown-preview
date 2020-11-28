@@ -3,11 +3,10 @@
 An application used to preview markdown text to side, built with React, JavaScript, and CSS.
 
 
-## Project Screen Shot(s)
+## Project Screen Shot
 
-![ PRETEND SCREEN SHOT IS HERE ](https://github.com/ayush52056/React-markdown-preview/blob/master/src/reactmarkdownss.PNG)
+![ SCREEN SHOT IS HERE ](https://github.com/ayush52056/React-markdown-preview/blob/master/src/reactmarkdownss.PNG)
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
 
 ## Installation and Setup Instructions
 
